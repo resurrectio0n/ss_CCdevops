@@ -5,3 +5,4 @@
 5. Create dockerfile with Docker-multi stage build
 
 
+![pain](https://user-images.githubusercontent.com/93077945/138591070-baecd907-ac67-4cc5-9ce7-206b250a528f.png)
