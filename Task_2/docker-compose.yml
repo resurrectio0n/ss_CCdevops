@@ -13,6 +13,6 @@ services:
     restart: always
     environment:
         MYSQL_ROOT_PASSWORD: root
-        MYSQL_DATABASE: novi_db
-        MYSQL_USER: decadence
-        MYSQL_PASSWORD: decadence
+        MYSQL_DATABASE: wordpress
+        MYSQL_USER: wordpress
+        MYSQL_PASSWORD: wordpress
